@@ -1,0 +1,4 @@
+# FFmpeg is required for audio processing. Install it from https://ffmpeg.org
+
+openai-whisper @ git+https://github.com/openai/whisper.git@517a43ecd132a2089d85f4ebc044728a71d49f6e
+torch>=2.4.1
